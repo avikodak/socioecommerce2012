@@ -1,0 +1,112 @@
+/* 
+    Document   : homePage
+    Created on : May 17, 2012, 10:31:30 AM
+    Author     : kodakand
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.imageModalBox{
+    position:absolute;
+    top:0;
+    background-color:#ddc0c0;
+    opacity:0.3;
+    display: none;
+}
+.getInfoForPic
+{
+    display: inline-block;
+    width: auto;
+    position:absolute;
+    background-color:#000;
+    z-index: 2;
+    color: white;
+    display: none;
+    cursor: pointer;
+}
+.partner{
+    position: relative;  
+    margin: 0 auto;
+}
+.centerImages{
+
+    margin: 0 auto;   
+}
+
+.image{
+    position:relative;
+    float:left;
+    padding: 1em 0em 1em 1em;
+
+}
+.imageContent{
+    display: inline-block;
+    height: 2em;
+    max-width: 200px;
+ 
+}
+.parnterDP{
+    display: inline-block;
+    position: absolute;
+    left: -110px;
+
+}
+
+.infiniteScrollBtn{
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    height: 3em;
+    background-color: #0b559b;
+    cursor:pointer;
+}
+
+.center{
+    margin:auto;
+    padding: 0.5em;
+    width: 8em;
+
+}
+
+.fontColorWhite{
+    color: white;
+}
+
+.mediumSize{
+    font-size: 1.5em;
+}
+.images{
+    position:relative;
+    margin: 0 auto;
+}
+#content{
+    padding: 0.2em 0.8em 0.2em 0.8em;
+    position: relative;
+}
+.container {
+    margin: 0em auto;
+    background-color: #fff;
+    width:50em; 
+    height:auto;
+    position:relative;
+    top:5em;
+}
+#space{
+    margin-bottom: 1em;
+    visibility: hidden; 
+
+}
+
+.mainContent{
+    width: 740px;
+    padding: 1em 1em 1em 1em;
+}
+
+.imageRow{
+    padding: 1em 1em 1em 1em;
+    display: inline-block;
+
+    width: 700px; /* Width - paddingLeft-paddingright*/
+}
+
+.Imgcenter {   display: block;   margin-left:auto; margin-right:auto;    vertical-align: middle }

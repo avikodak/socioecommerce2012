@@ -1,0 +1,104 @@
+/* 
+    Document   : homePage
+    Created on : May 17, 2012, 10:31:30 AM
+    Author     : kodakand
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.imageModalBox{
+   position:absolute;
+   top:0;
+   opacity:0.3;
+   background-color: #000;
+}
+.getInfoForPic
+{
+ 
+    width: 4em;
+    height:4em;
+    background-color: #500;
+   
+}
+.partner{
+    position: relative;  
+
+}
+.image{
+    position:relative;
+    display:inline-block;
+    max-height: 400px;
+    max-width: 200px;
+    padding: 1em 1em 1em 1em;
+
+}
+.imageContent{
+    display: inline-block;
+    height: 2em;
+    max-width: 200px;
+}
+.parnterDP{
+    display: inline-block;
+    position: absolute;
+    left: -110px;
+
+}
+
+.infiniteScrollBtn{
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    height: 3em;
+    background-color: #0b559b;
+    cursor:pointer;
+}
+
+.center{
+    margin:auto;
+    padding: 0.5em;
+    width: 8em;
+
+}
+
+.fontColorWhite{
+    color: white;
+}
+
+.mediumSize{
+    font-size: 1.5em;
+}
+.images{
+    position:relative;
+}
+#content{
+    padding: 0.2em 0.8em 0.2em 0.8em;
+    position: relative;
+}
+.container {
+    margin: 0em auto;
+    background-color: #fff;
+    width:50em; 
+    height:auto;
+    position:relative;
+    top:5em;
+
+}
+#space{
+    margin-bottom: 1em;
+    visibility: hidden; 
+
+}
+
+.mainContent{
+    width: 740px;
+    padding: 1em 1em 1em 1em;
+}
+
+.imageRow{
+    padding: 1em 1em 1em 1em;
+}
+
+
+.Imgcenter {   display: block;   margin-left:auto; margin-right:auto;    vertical-align: middle }
+
